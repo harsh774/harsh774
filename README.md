@@ -33,7 +33,9 @@
 
   - :zap: In my free time, I solve problems on HackerRank (4🌟) and make projects.
 
-  - :mailbox:How to reach me: [![Linkedin Badge](https://www.linkedin.com/in/harsh-singh-kushwaha-ba1470207/?style=flat&logo=Linkedin&logoColor=white)]
+  - :mailbox:How to reach me: <a href="https://www.linkedin.com/in/harsh-singh-kushwaha-ba1470207/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
   
   ---
 
