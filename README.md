@@ -19,9 +19,11 @@
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="600" height="300"/>
   ---
 
+
+</div>
 ### 👨‍💻 About Me : Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
   
 - :telescope: I'm an undergraduate student pursuing BTech branch CSE from Vellore Institute of Technology( VIT ) Bhopal.
@@ -52,4 +54,3 @@
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harsh774&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
   
   ---
-</div>
