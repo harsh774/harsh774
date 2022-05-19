@@ -21,17 +21,17 @@
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
   ---
-### 👨‍💻 About Me : Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+  👨‍💻 About Me : Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
   
-- :telescope: I'm an undergraduate student pursuing BTech branch CSE from Vellore Institute of Technology( VIT ) Bhopal.
+  - :telescope: I'm an undergraduate student pursuing BTech branch CSE from Vellore Institute of Technology( VIT ) Bhopal.
 
-- :seedling: Exploring the field of development.
+  - :seedling: Exploring the field of development.
 
-- :zap: In my free time, I solve problems on HackerRank (4🌟) and make projects.
+  - :zap: In my free time, I solve problems on HackerRank (4🌟) and make projects.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Linkdln-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/harsh-singh-kushwaha-ba1470207/)
+  - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Linkdln-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/harsh-   singh-kushwaha-ba1470207/)
   
----
+  ---
 
 ### 🛠️ Languages and Tools :
   <div>
