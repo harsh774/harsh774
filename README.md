@@ -23,8 +23,7 @@
   
   ---
 <div/>
-<div>
- 
+<div align="left">
  ### 👨‍💻 About Me : Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
   
   - :telescope: I'm an undergraduate student pursuing BTech branch CSE from Vellore Institute of Technology( VIT ) Bhopal.
