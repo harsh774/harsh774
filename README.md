@@ -31,7 +31,7 @@
 
   - :seedling: Exploring the field of development.
 
-  - :zap: In my free time, I solve problems on HackerRank (4🌟) and make projects.
+  - :zap: In my free time, I solve problems on HackerRank(5🌟), Leetcode and make projects.
 
   - :mailbox:How to reach me: <a href="https://www.linkedin.com/in/harsh-singh-kushwaha-ba1470207/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
