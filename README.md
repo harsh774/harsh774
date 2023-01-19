@@ -57,7 +57,7 @@
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harsh774&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
   
   ---
-  <img src="https://media.giphy.com/media/AIlrItaxPyivS/giphy.gif" width="300" height="150"/>
+  <img src="https://media1.giphy.com/media/Lny6Rw04nsOOc/giphy.gif?cid=ecf05e47jfjsgcuxqdrmfo3hff7x6s8ijbs0llc2r2ogv8rk&rid=giphy.gif&ct=g" width="300" height="150"/>
 
 
 </div>
