@@ -31,7 +31,7 @@
 
   - :seedling: Exploring the field of development.
 
-  - :zap: In my free time, I solve problems on HackerRank(5🌟), Leetcode and make projects.
+  - :zap: In my free time, I solve problems on HackerRank(5🌟), Leetcode(300+) and make projects.
 
   - :mailbox:How to reach me: <a href="https://www.linkedin.com/in/harsh-singh-kushwaha-ba1470207/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -41,15 +41,7 @@
 
 ### 🛠️ Languages and Tools :
   <div>
-  <img src="https://icons8.com/icon/13679/java" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://icons8.com/icon/1045/css" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://icons8.com/icon/20909/html-5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://icons8.com/icon/108784/javascript" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://icons8.com/icon/123603/react-native" title="React" **alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://icons8.com/icon/lAWjO4LexGga/canva" title="Canva" **alt="Canva" width="40" height="40"/>&nbsp;
-  <img src="https://icons8.com/icon/P08kExl7rixR/unity" title="Unity" **alt="Unity" width="40" height="40"/>&nbsp;
-  <img src="https://icons8.com/icon/UFXRpPFebwa2/mysql-logo" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://icons8.com/icon/20906/git" title="Git" **alt="Git" width="40" height="40"/>
+    <h2>JAVA | JavaScript | ReactJS | Unity | MySQL | Git | Android Studio | MonogoDB | Canva</h2>
 </div>
   
   ---
