@@ -41,7 +41,7 @@
 
 ### 🛠️ Languages and Tools :
   <div>
-    <h2>JAVA | JavaScript | ReactJS | Unity | MySQL | Git | Android Studio | MonogoDB | Canva</h2>
+    <h2>JAVA | JavaScript | ReactJS | Unity | MySQL | Git | Android Studio | ExpressJS | Canva</h2>
 </div>
   
   ---
