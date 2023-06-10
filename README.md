@@ -23,9 +23,8 @@
   
   ---
 <div/>
-<div>
   
-  ###👨‍💻 About Me : Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+  **👨‍💻 About Me : Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.**
   
   - :telescope: I'm an undergraduate student pursuing BTech branch CSE from Vellore Institute of Technology( VIT ) Bhopal.
 
@@ -33,17 +32,12 @@
 
   - :zap: In my free time, I solve problems on HackerRank(5🌟), Leetcode(300+) and make projects.
 
-  - :mailbox:How to reach me: <a href="https://www.linkedin.com/in/harsh-singh-kushwaha-ba1470207/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
+  - :mailbox:How to reach me: <a href='https://www.linkedin.com/in/harsh-singh23' target="_blank"><img alt='LinkedIn' src='https://img.shields.io/badge/LinkedIn-100000?style=flat&logo=LinkedIn&logoColor=white&labelColor=0459B3&color=0459B3'/></a>
   
   ---
 
 ### 🛠️ Languages and Tools :
-  <div>
-    <h2>JAVA | JavaScript | ReactJS | Unity | MySQL | Git | Android Studio | ExpressJS | Canva</h2>
-</div>
-  
+  <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='JavaScript' src='https://img.shields.io/badge/JavaScript-100000?style=flat-square&logo=JavaScript&logoColor=white&labelColor=black&color=black'/></a> <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='Java' src='https://img.shields.io/badge/JAVA-100000?style=flat-square&logo=Java&logoColor=white&labelColor=black&color=black'/></a> <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='React' src='https://img.shields.io/badge/ReactJS-100000?style=flat-square&logo=React&logoColor=white&labelColor=black&color=000000'/></a> <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='UNITy' src='https://img.shields.io/badge/UNITY-100000?style=flat-square&logo=UNITy&logoColor=white&labelColor=black&color=000000'/></a> <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='MYSQl' src='https://img.shields.io/badge/MySQL-100000?style=flat-square&logo=MYSQl&logoColor=white&labelColor=black&color=000000'/></a> <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='Git' src='https://img.shields.io/badge/Git-100000?style=flat-square&logo=Git&logoColor=white&labelColor=black&color=000000'/></a> <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='Android Studio' src='https://img.shields.io/badge/Android_Studio-100000?style=flat-square&logo=Android Studio&logoColor=white&labelColor=black&color=000000'/></a> <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='Express' src='https://img.shields.io/badge/Express_JS-100000?style=flat-square&logo=Express&logoColor=white&labelColor=black&color=000000'/></a> <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='NPM' src='https://img.shields.io/badge/Node_Js-100000?style=flat-square&logo=NPM&logoColor=white&labelColor=black&color=000000'/></a> <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='Canva' src='https://img.shields.io/badge/Canva-100000?style=flat-square&logo=Canva&logoColor=white&labelColor=black&color=000000'/></a>
   ---
 
 ### 📂 My Stats :
