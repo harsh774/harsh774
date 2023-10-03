@@ -12,6 +12,8 @@
   </a>
 </div>
    <img src="https://komarev.com/ghpvc/?username=harsh774&style=flat-square&color=blue" alt=""/>
+
+  [![An image of @harsh774's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/harsh774)](https://holopin.io/@harsh774)
   <h1>
   Hey there, I'm Harsh
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
@@ -26,11 +28,11 @@
   
   **👨‍💻 About Me : Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.**
   
-  - :telescope: I'm an undergraduate student pursuing BTech branch CSE from Vellore Institute of Technology( VIT ) Bhopal.
+  - :telescope: I'm an undergraduate student pursuing B.Tech branch CSE from Vellore Institute of Technology( VIT ) Bhopal.
 
   - :seedling: Exploring the field of development.
 
-  - :zap: In my free time, I solve problems on HackerRank(5🌟), Leetcode(300+) and make projects.
+  - :zap: In my free time, I solve problems on HackerRank(5🌟), Leetcode(3🌟) and make projects.
 
   - :mailbox:How to reach me: <a href='https://www.linkedin.com/in/harsh-singh23' target="_blank"><img alt='LinkedIn' src='https://img.shields.io/badge/LinkedIn-100000?style=flat&logo=LinkedIn&logoColor=white&labelColor=0459B3&color=0459B3'/></a>
   
