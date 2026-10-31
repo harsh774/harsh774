@@ -15,7 +15,7 @@
 
 <p>
   <a href="https://github.com/harsh774?tab=followers"><img src="https://img.shields.io/github/followers/harsh774?label=Followers&style=social&logo=github" alt="GitHub followers"/></a>
-  <img src="https://komarev.com/ghpvc/?username=harsh774&label=Profile%20views&color=2F81F7&style=flat" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=harsh774&style=flat-square&color=blue" alt="Profile views"/>
 </p>
 
 </div>
